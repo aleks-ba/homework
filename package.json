@@ -1,0 +1,23 @@
+{
+  "name": "BookAPI",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-nodemon": "^2.0.6",
+    "mongoose": "^4.3.7",
+    "mysql": "^2.10.2",
+    "should": "^8.2.1",
+    "simon": "^0.2.3",
+    "sinon": "^1.17.3"
+  }
+}
